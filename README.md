@@ -1,2 +1,1 @@
-# garrettmasters.github.io
-Meu portfólio pessoal
+# portafolio_dinamico
